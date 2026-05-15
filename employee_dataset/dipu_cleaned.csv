@@ -1,0 +1,25 @@
+Emp_ID,Name,Age,Salary (INR),Experience (Years),City,Department,Performance Rating
+125,Rahul Khanna,29,850000.0,6.0,Delhi,IT,4.2
+126,Simran Kaur,34,1580250.0,9.0,Mumbai,HR,3.9
+127,Vikram Singh,41,1400000.0,10.869565217391305,Bangalore,Finance,4.7
+128,Aditi Rao,28,720000.0,5.0,Kolkata,IT,4.1
+129,Sanjay Dutt,45,1580250.0,18.0,Chennai,Sales,4.5
+130,Pooja Hegde,31,950000.0,8.0,Hyderabad,Operations,4.5
+131,Ishaan Khattar,24,450000.0,2.0,Pune,IT,3.8
+132,Kiara Advani,30,1580250.0,7.0,Jaipur,Marketing,4.4
+133,Varun Dhawan,33,1100000.0,10.0,Bangalore,Management,4.9
+134,Alia Bhatt,27,780000.0,4.0,Kolkata,IT,4.3
+135,Ranbir Kapoor,38,2200000.0,15.0,Kochi,HR,4.6
+136,Kartik Aaryan,32,1050000.0,9.0,Delhi,Finance,4.2
+137,Sara Ali Khan,26,620000.0,3.0,Mumbai,IT,4.0
+138,Tiger Shroff,31,5000000.0,8.0,Chennai,Management,5.0
+139,Janhvi Kapoor,25,390000.0,1.0,Pune,HR,3.7
+140,Ayushmann K.,39,1350000.0,16.0,Hyderabad,Operations,4.8
+141,Kriti Sanon,30,880000.0,7.0,Jaipur,IT,4.5
+142,Rajkumar Rao,35,1580250.0,12.0,Bangalore,IT,4.4
+143,Shraddha Kapoor,33,920000.0,10.0,Delhi,IT,4.3
+144,Vicky Kaushal,37,1200000.0,14.0,Mumbai,Finance,4.7
+145,Tapsee Pannu,32,1580250.0,9.0,Hyderabad,Operations,4.6
+146,Manoj Bajpayee,52,4500000.0,28.0,Kolkata,Management,5.0
+147,Pankaj Tripathi,48,3800000.0,25.0,Kochi,Management,4.9
+148,Nawazuddin S.,47,3500000.0,24.0,Pune,HR,4.8

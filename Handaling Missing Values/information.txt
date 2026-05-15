@@ -1,0 +1,9 @@
+এখেনে ৩ তা বিল্ড ইন ফাঙ্কশন আছে, 
+1. np.isnan 
+2. np. nan-to-nun()
+3. np.isinf
+
+
+nan এর মানে হলো ( not a number ), such as (0/0) something like that
+
+
